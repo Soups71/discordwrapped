@@ -1,0 +1,18 @@
+```
+DISCORD WRAPPED
+
+Inspired by the magic of Spotify Wrapped, our bot unveils the year's highlights for the server.
+
+Unleash the power of two commands:
+
+    * !wrapped server
+    * !wrapped channel
+
+Unlock a treasure trove of insights for the entire server or a specific channel:
+
+    * Messages sent by each user 📬
+    * GIFs shared by each user 🎥
+    * Images sent by each user 📸
+
+Crafted with passion by Soups71. Let the unraveling begin! 🚀
+```
